@@ -6,7 +6,7 @@ Technologies Used:
 2. MySql Database.
 
 Features
-1. Singular functions that perform CRUD operations that can be reused depending upon queries.
+1. Reusable functions that perform CRUD operations & can be reused depending upon queries.
 2. After a driver registers, he first has to be verified by Employee before being able to start taking trips,which is also a part of software.
 3. A trip linked with a particular driver depending upon the source of customer and the driver's current location.
 4. After succcessful completion of trip the parameters of Driver like (Current Location,Number Of Trips,Reviews,Booking) gets updated.
