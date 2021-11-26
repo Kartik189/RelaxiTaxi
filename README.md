@@ -24,3 +24,4 @@ Database
 5. Past Trips(Whole Collection of Trips Done Till Now that can be queried upon by Driver as well as Customer)
 
 CRUD operations performed using MySQL syncronous queries.
+![Project_Diagram](https://user-images.githubusercontent.com/40807530/143618205-bca99e5d-414d-48fc-94f6-43ea10e9d773.jpeg)
