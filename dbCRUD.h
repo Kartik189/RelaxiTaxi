@@ -81,7 +81,7 @@ MYSQL_RES* read(string id,string tableName,string queryColumn) {
 	return NULL;
 }
 
-MYSQL_RES* readAll(string tableName) {
+MYSQL_RES* read(string tableName) {
 
 	string query = "SELECT * from " + tableName;
 	const char* q = query.c_str();
